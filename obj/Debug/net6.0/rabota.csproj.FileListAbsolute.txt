@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\bin\Debug\net6.0\rabota.exe
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\bin\Debug\net6.0\rabota.deps.json
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\bin\Debug\net6.0\rabota.runtimeconfig.json
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\bin\Debug\net6.0\rabota.dll
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\bin\Debug\net6.0\rabota.pdb
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\obj\Debug\net6.0\rabota.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\obj\Debug\net6.0\rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\obj\Debug\net6.0\rabota.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\obj\Debug\net6.0\rabota.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\obj\Debug\net6.0\rabota.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\obj\Debug\net6.0\rabota.dll
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\obj\Debug\net6.0\refint\rabota.dll
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\obj\Debug\net6.0\rabota.pdb
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\obj\Debug\net6.0\rabota.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\домашка\Itog_1\rabota\obj\Debug\net6.0\ref\rabota.dll
